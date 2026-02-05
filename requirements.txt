@@ -1,0 +1,3 @@
+# ComfyUI Image Annotator Node
+# Requirements: Pillow (torch/numpy provided by ComfyUI)
+Pillow

@@ -1,0 +1,25 @@
+# ComfyUI auto-generated
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE
+.idea/
+.vscode/
+.claude/
+*.swp
+*.swo
+
+# Temporary files
+*.log
+*.tmp
+
+# Old documentation (if any)
+HANDOFF_*.md
+README_V*.md
