@@ -3,7 +3,6 @@ name = "luckdvr-image-annotator"
 version = "1.0.0"
 description = "Interactive point, rectangle, and polygon annotation node for ComfyUI."
 license = { file = "LICENSE" }
-requires-python = ">=3.10"
 dependencies = [
     "Pillow",
 ]
