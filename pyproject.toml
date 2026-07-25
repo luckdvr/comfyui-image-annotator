@@ -1,0 +1,20 @@
+[project]
+name = "luckdvr-image-annotator"
+version = "1.0.0"
+description = "Interactive point, rectangle, and polygon annotation node for ComfyUI."
+license = { file = "LICENSE" }
+dependencies = [
+    "Pillow",
+]
+classifiers = [
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Repository = "https://github.com/luckdvr/comfyui-image-annotator"
+Documentation = "https://github.com/luckdvr/comfyui-image-annotator#readme"
+"Bug Tracker" = "https://github.com/luckdvr/comfyui-image-annotator/issues"
+
+[tool.comfy]
+PublisherId = "luckdvr"
+DisplayName = "Luck Image Annotator"
